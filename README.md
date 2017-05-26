@@ -12,6 +12,6 @@ Monero Noobs was inspired by [anonimal_0x914409F1's post](https://www.reddit.com
 
 **Join us on [Telegram](https://t.me/moneronoobs)**
 
-[Why we believe it is the successor to Bitcoin](https://www.monero.how/why-monero-vs-bitcoin)
+[Why we believe Monero it is the successor to Bitcoin](https://www.monero.how/why-monero-vs-bitcoin)
 
 ![Alt text](https://www.monero.how/monero-infographic.jpg "What is the monero blockchain?")
