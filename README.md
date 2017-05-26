@@ -10,6 +10,8 @@ Monero Noobs was inspired by [anonimal_0x914409F1's post](https://www.reddit.com
 
 >To all the naysayers: **if you don't know how to code, I'd suggest to start learning now so you can see how powerful Monero technology really is - and is destined to be. Seriously, if only more people spent time learning to code instead of ranting on reddit...**
 
-Join us on [Telegram](https://t.me/moneronoobs)
+**Join us on [Telegram](https://t.me/moneronoobs)**
+
+[Why we believe it is the successor to Bitcoin](https://www.monero.how/why-monero-vs-bitcoin)
 
 ![Alt text](https://www.monero.how/monero-infographic.jpg "What is the monero blockchain?")
